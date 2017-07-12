@@ -1,0 +1,28 @@
+body {
+	width: 75%;
+	margin: 0 auto;
+}
+
+li.foo {
+	color: red;
+}
+
+/*
+	VS: NOTE THE SPACE
+li .foo {
+	
+}
+*/
+
+aside ul .foo {
+	text-transform: capitalize;
+}
+
+aside ul li {
+	text-transform: initial;
+}
+
+
+h1 {
+	text-transform: uppercase;
+}

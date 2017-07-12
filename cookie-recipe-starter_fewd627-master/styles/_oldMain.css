@@ -1,0 +1,45 @@
+li {
+	color: green;
+}
+
+
+h1 { /* tagName selector 
+
+			LOL look ma, this is multilined */
+
+	color: red; /* this is a css rule */
+}
+
+img {
+	width: 100%;
+	max-height: 300px;
+}
+
+.title { /* className selector */
+	text-decoration: underline;
+}
+
+.section-title {
+	color: blue;
+}
+
+.red-text {
+	color: red;
+}
+
+.really-bold {
+	font-weight: 100;
+}
+
+.underlined {
+	text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
